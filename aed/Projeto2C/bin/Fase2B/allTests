@@ -1,0 +1,26 @@
+IU rm86 50 150 31 F Rosa Mota
+
+IU rm70 50 150 31 M Rui Mora
+
+IA act1 10 correr na caparica
+
+AW rm86 act1 20
+
+AW rm86 act1 40
+
+AW rm70 act1 40
+
+IG grp Maratona
+
+AG rm86 grp
+
+CG grp
+
+AG rm70 grp
+
+CG grp
+
+RU rm86
+
+CG grp
+
